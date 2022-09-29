@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/zVeran](https://www.behance.net/zVeran)
 
-- 💬 Ask me about **I'm a web development student since 2020. I'm 18 years old, having a brief knowledge of HTML, CSS, Java and JS, C#, Python. Also, I'm a junior UI/UX Designer.**
+- 💬 About me **I'm a web development student since 2020. I'm 18 years old, having a brief knowledge of HTML, CSS, Java and JS, C#, Python. Also, I'm a junior UI/UX Designer.**
 
 - 📫 How to reach me **agustavodavid94@gmail.com**
 
