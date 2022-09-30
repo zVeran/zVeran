@@ -1,4 +1,7 @@
-## Helloo eu sou Luiz Gustavo, Designer e desenvolvedor web!
+## ⚡Helloo I'm Luiz Gustavo, Designer and Developer Web!⚡
+<p>
+I study UI/UX design and web development! 
+</p>
 <div align="center">
   <a href="https://github.com/zVeran">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zveran&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
