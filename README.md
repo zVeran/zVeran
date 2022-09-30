@@ -1,6 +1,6 @@
 ## ⚡Helloo I'm Luiz Gustavo, Designer and Developer Web!⚡
 <p>
-I study UI/UX design and web development! 
+☄️I study UI/UX design and web development! 
 </p>
 <div align="center">
   <a href="https://github.com/zVeran">
