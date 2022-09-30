@@ -13,6 +13,7 @@
   <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luiz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Luiz-Behance" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-original.svg">
+  <img align="center" alt="Luiz-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   
 </div>
   
