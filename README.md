@@ -6,6 +6,7 @@
   <a href="https://github.com/zVeran">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zveran&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zveran&layout=compact&langs_count=7&theme=aura_dark"/>
+  <p align="left"> <a href="https: //github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zveran" alt="zveran" /></ a> </p>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
