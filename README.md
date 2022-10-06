@@ -18,7 +18,7 @@
   <img align="center" alt="Luiz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Luiz-Behance" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-original.svg">
   <img align="center" alt="Luiz-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></center>
-  <img align="center" alt="Luiz-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg"></center>
+</center>
   
 </div>
   
